@@ -1,0 +1,8 @@
+setup.py
+src/pymorse/__init__.py
+src/pymorse/morse.py
+src/pymorse2.egg-info/PKG-INFO
+src/pymorse2.egg-info/SOURCES.txt
+src/pymorse2.egg-info/dependency_links.txt
+src/pymorse2.egg-info/top_level.txt
+test/test_unittest.py

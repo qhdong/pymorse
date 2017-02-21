@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: pymorse2
+Version: 0.0.2
+Summary: A python lib to translate unicode to morse code
+Home-page: https://github.com/qhdong/pymorse
+Author: Dong Qihong
+Author-email: dongqihong@vip.qq.com
+License: MIT
+Description: UNKNOWN
+Keywords: morse.py,pymorse,morse
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: Programming Language :: Python
+Classifier: Topic :: Utilities
